@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sujitavchar
-- 👀 I’m interested in Cyber security
+- 👀 I’m interested in Web Development and Cyber security
 - 🌱 I’m currently learning Js
 - 💞️ I’m looking to collaborate on github open source...
 - 📫 How to reach me -> insta id - sujit._.avchar.
