@@ -1,10 +1,22 @@
-- 👋 Hi, I’m @sujitavchar
-- 👀 I’m interested in Web Development and Cyber security
-- 🌱 I’m currently learning Js
-- 💞️ I’m looking to collaborate on github open source...
-- 📫 How to reach me -> insta id - sujit._.avchar.
+👋 Hello, I'm Sujit Avchar!
 
-<!---
-sujitavchar/sujitavchar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 B.E. in Computer Engineering from Savitribai Phule Pune University.
+
+💻 Intermediate web developer with proficiency in C++, Python, and JavaScript.
+
+📚 Currently exploring Competitive Programming (CP) and sharpening Data Structures and Algorithms (DSA) skills.
+
+🏢 Open to opportunities as a Project Intern, Summer Intern, Web Developer, or Fresher roles.
+
+🌟 Featured Projects:
+
+Retro - Music Player: A simple web-based music player developed in JavaScript. GitHub
+Money Morpher: Convert any currency to any currency registered in the world. GitHub
+📚 Education:
+
+Bachelor of Engineering (BE) in Computer Engineering, Savitribai Phule Pune University.
+Certified in Data Science Training from IBM.
+Java Certification from IIT Bombay.
+
+
+📫 Feel free to connect and explore potential collaborations!
