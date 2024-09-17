@@ -1,6 +1,8 @@
 # 💫 About Me:
 <br>👋 Hi there! I'm Sujit Avchar, an enthusiastic software engineer passionate about building scalable web applications and solving complex problems with innovative solutions.<br><br>🚀💼 Experience: I've worked as a Web Developer Intern at Extion Infotech, where I developed real-time news display websites and blog platforms. I have also worked on enhancing an open-source speech-to-text transcription tool.<br><br>💡 Projects: I enjoy working on full-stack projects using the MERN stack and experimenting with new ideas, especially those that can potentially become impactful businesses. Currently, I'm working on a fintech platform and exploring ideas for women safety analytics.<br><br>🌱 Learning: I'm always eager to learn more about new technologies, especially in the areas of cloud computing, machine learning, and advanced web development.<br><br>📫 Let's Connect: Feel free to check out my repositories and reach out if you'd like to collaborate!
 
+---
+[![](https://visitcount.itsvg.in/api?id=sujitavchar&icon=1&color=13)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sujit._.avchar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sujit-avchar-08248b240/) 
@@ -15,7 +17,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
----
-[![](https://visitcount.itsvg.in/api?id=sujitavchar&icon=1&color=13)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
